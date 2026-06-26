@@ -1,0 +1,14 @@
+{
+  "name": "private-date-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@consumet/extensions": "^1.5.1",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
